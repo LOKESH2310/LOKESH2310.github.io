@@ -1,0 +1,25 @@
+body{background-color: #a3e6e6;}
+
+h1{color: #c95b00;
+    text-align: center;
+    padding-top:1%;
+    padding-top:2%;}
+
+h5{color:#c93cc5}
+
+img{ display:block;
+    margin-left: auto;
+    margin-right: auto;}
+h2{color: #c93cc5;
+    text-align: center;
+    padding-top:1%;}
+
+p{color:#ff5e00;}
+
+ul{color:#ff5e00;}
+
+#git{text-align: center;}
+
+.h3{color: #c95b00;}
+
+.wrapper{margin-left: 5%;}
